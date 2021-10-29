@@ -1,7 +1,7 @@
 # informaticaWeb1INFO1
 ## Materiais utilizados e diponibilizados no primeiro semestre do curso
 
-###  <h1><img src="./assets/cpa.jpg" width="25px"> COLÉGIO PROTÁSIO ALVES</h1>
+###  <h1><img src="./assets/cpa.jpg" width="45px"> COLÉGIO PROTÁSIO ALVES</h1>
 
 > <h2>Curso Técnico em Informática para Internet (Desenvolvimento WEB Front/Back-End)</h2>
 
