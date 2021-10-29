@@ -1,4 +1,4 @@
-# informaticaWeb1INFO1
+# informaticaWeb1INFO
 ## Materiais utilizados e diponibilizados no primeiro semestre do curso
 
 ###  <h1><img src="./assets/cpa.jpg" width="45px"> COLÉGIO PROTÁSIO ALVES</h1>
